@@ -1,0 +1,7 @@
+# build output
+*.app
+.build/
+dist/
+*.dmg
+*.tar.gz
+.DS_Store
